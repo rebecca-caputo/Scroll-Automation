@@ -36,7 +36,7 @@ h1 {
 }
 
 .box:nth-of-type(even) {                     /* selects every other box */
-    transform: translateX(-200%);
+    transform: translateX(-400%);
 }
 
 .box.show {
